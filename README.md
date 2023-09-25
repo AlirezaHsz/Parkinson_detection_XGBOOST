@@ -19,3 +19,7 @@ The primary objectives of this notebook are as follows:
 
 ## Result:
 ![123](https://github.com/AlirezaHsz/Parkinson_detection_XGBOOST/assets/137410544/d0e4f88f-4e8c-45c0-8817-a08dc342dd23)
+
+
+## Resource:
+The dataset was created by Max Little of the University of Oxford, in collaboration with the National Centre for Voice and Speech, Denver, Colorado, who recorded the speech signals. The original study published the feature extraction methods for general voice disorders.
